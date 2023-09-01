@@ -1,4 +1,4 @@
 # pro
-team project
+Team project
 <br>
 KAUSHAL KUMAR
